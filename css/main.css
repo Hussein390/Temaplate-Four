@@ -859,8 +859,7 @@ p {
   }
 }
 .profile-page .avater-box {
-    
-    width: 250px;
+    width: 220px;
   }
 
 @media (min-width: 767px) {
@@ -1103,7 +1102,7 @@ transform: translateY(-10px);
 /* start file-page  */
 
 .files-page .file{
-    min-width: 270px;
+    min-width: 240px;
 }
 
 .files-page .file2 {

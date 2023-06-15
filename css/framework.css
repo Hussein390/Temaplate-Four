@@ -488,5 +488,9 @@
 .m-autoo{
   margin: 10px auto;
 }
+
+.borb-mob{
+  border-bottom: 1px solid #eee;
+}
 }
 /* mobil  */
